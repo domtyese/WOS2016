@@ -1,3 +1,7 @@
 ﻿Hello World, it's Dom!
  I kinda want to eat ramen for lunch.
+<<<<<<< HEAD
  I am so over eating leftover food frim Christmas. It was yummy though.
+=======
+Ok..so I have leftover pasta at home.
+>>>>>>> 5e38ccbe74216bed34c20a5b2e9fb9d814741508
